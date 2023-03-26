@@ -1,0 +1,3 @@
+line 1 trong file data.txt
+line 2 trong file data.txt
+line 3 trong file data.txt
